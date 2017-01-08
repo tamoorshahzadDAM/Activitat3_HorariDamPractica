@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Control Flow/Extract If Condition" />
+    <ignoreAction name="Java/Control Flow/Invert 'if' condition" />
+    <ignoreAction name="Java/Boolean/DeMorgan Law" />
+  </component>
+</application>
