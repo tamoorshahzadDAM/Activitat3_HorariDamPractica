@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/tamoorshahzadDAM/Activitat3_HorariDamPractica" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/tamoorshahzadDAM/SpaceRace_apunts_activitats" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\AndroidStudio\Activitat3_HorariDam" />
+    <option name="cloneParentDir" value="D:\AndroidStudio" />
   </component>
 </application>
